@@ -1,0 +1,16 @@
+Body { background-color: rgb(204, 52, 52);}
+
+img{
+    width: 35%;
+}
+h1{
+    font-family: 'Roboto Mono', monospace;
+}
+h2{
+    color: rgb(229, 219, 219);
+    font-family: 'Lobster', cursive;
+}
+
+#lg{
+    width: 40%;
+}
