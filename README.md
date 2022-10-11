@@ -1,2 +1,2 @@
 # Growing Up
-Kids become an baskeball player 
+Kids become an basketball player 
